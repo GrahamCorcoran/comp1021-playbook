@@ -23,4 +23,5 @@
 
 [Extra Resources]()
 [Test 1 Study Guide](./extra/test-1-study-guide.md)
+[Test 2 Study Guide](./extra/test-2-study-guide.md)
 [Course Coding Standards]()
