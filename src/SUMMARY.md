@@ -17,7 +17,11 @@
     - [CRUD Operations](./module_2/crud_operations.md)
     - [MongoDB with Node.js](./module_2/mongodb_with_nodejs.md)
     - [Data Modelling and Queries](./module_2/data_modelling_and_queries.md)
-- [Full-Stack Application Development]()
+- [Full-Stack Application Development](./module_3/overview.md)
+    - [Introduction to Express](./module_3/introduction_to_express.md)
+    - [Middleware](./module_3/middleware.md)
+    - [Express with MongoDB](./module_3/express_with_mongodb.md)
+    - [Putting It Together](./module_3/putting_it_together.md)
 
 --- 
 
